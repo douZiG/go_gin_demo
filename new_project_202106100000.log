@@ -1,0 +1,121 @@
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-10T16:46:34+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T16:46:52+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:02:31+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:02:31+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:02:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:02:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:03:15+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:08:13+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:08:13+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:08:16+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:08:16+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:13:03+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T17:13:03+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T18:34:14+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T18:35:35+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-10T18:35:59+08:00"
+}
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080

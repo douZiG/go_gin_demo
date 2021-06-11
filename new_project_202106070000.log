@@ -1,0 +1,37 @@
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-07T11:51:31+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2021/06/10 - 16:46:52 | 200 |   12.542292ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:02:31 | 200 |   91.472708ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:02:31 | 200 |    4.044333ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:02:55 | 200 |   33.053417ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:02:55 | 200 |       6.457ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:03:15 | 200 |   16.503208ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:08:13 | 200 |      84.585ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:08:13 | 200 |    1.541125ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:08:16 | 200 |    2.513917ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:08:16 | 200 |   12.571084ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:09:16 | 404 |         416ns |       127.0.0.1 | OPTIONS  "/user/queryUser/"
+[GIN] 2021/06/10 - 17:09:16 | 404 |       1.208µs |       127.0.0.1 | OPTIONS  "/user/queryUser/"
+[GIN] 2021/06/10 - 17:09:21 | 404 |       1.375µs |       127.0.0.1 | OPTIONS  "/user/queryUser/"
+[GIN] 2021/06/10 - 17:09:21 | 404 |         709ns |       127.0.0.1 | OPTIONS  "/user/queryUser/"
+[GIN] 2021/06/10 - 17:13:03 | 200 |   37.737417ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 17:13:03 | 200 |     870.291µs |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 18:34:14 | 200 |   36.591584ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 18:35:35 | 200 |   32.396417ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/10 - 18:35:59 | 200 |   15.550458ms |             ::1 | GET      "/user/queryUser/"

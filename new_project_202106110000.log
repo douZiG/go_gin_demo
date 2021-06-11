@@ -1,0 +1,1337 @@
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T10:33:37+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:33:47+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:37:04+08:00"
+}
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T10:38:00+08:00"
+}
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:38:26+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:44:26+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:47:11+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:47:34+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:48:08+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:48:11+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:52:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:54:09+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:54:10+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:54:46+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:54:49+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:55:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:55:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:56:22+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:56:44+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T10:56:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:12:23+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:33:02+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:33:33+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:38:22+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:41:27+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:41:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:43:06+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T11:44:57+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:21:14+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:23:09+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:25:16+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:28:25+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:29:00+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:29:03+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:32:28+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:32:30+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:35:01+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:35:41+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:36:00+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:39:26+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:45:10+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:54:19+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:55:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T14:55:53+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:04:36+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:04:40+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:07:26+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:08:38+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:08:41+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:09:00+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:09:02+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:40:13+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:41:05+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:41:08+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:41:52+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:41:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:43:05+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:43:08+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:46:37+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T15:46:41+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:00:52+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:01:00+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:02:05+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:02:21+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:02:25+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:03:14+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:03:19+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:03:31+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:05:26+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:05:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:06:02+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:06:05+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:06:38+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:06:39+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:08:45+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:08:51+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:09:21+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:10:11+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:10:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:10:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:14:31+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:14:34+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:17:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:18:15+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:18:20+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:18:51+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:20:24+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:20:26+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:25:45+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:25:51+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:25:54+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:28:50+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:28:54+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:29:17+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:29:24+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:29:43+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:29:53+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:29:55+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:30:45+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:32:49+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:32:53+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:40:10+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:42:17+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:50:02+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T16:52:10+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:00:35+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:00:41+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:02:22+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:02:25+08:00"
+}
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:03:08+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:03:29+08:00"
+}
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:03:47+08:00"
+}
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:06:38+08:00"
+}
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:17:48+08:00"
+}
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:18:16+08:00"
+}
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:20:48+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:20:54+08:00"
+}
+[GIN] 2021/06/11 - 17:20:54 | 200 |   13.442125ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:24:19+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:25:13+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:28:46+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:29:03+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:29:03+08:00"
+}
+[GIN] 2021/06/11 - 17:29:03 | 200 |    7.962791ms |             ::1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:29:57+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:30:24+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:30:27+08:00"
+}
+[GIN] 2021/06/11 - 17:30:27 | 200 |   10.205917ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:31:16+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:31:31+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:31:32+08:00"
+}
+[GIN] 2021/06/11 - 17:31:32 | 200 |    9.378084ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:31:59+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:32:01+08:00"
+}
+[GIN] 2021/06/11 - 17:32:01 | 200 |    7.004166ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:35:06+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:35:21+08:00"
+}
+[GIN] 2021/06/11 - 17:35:21 | 200 |   20.391167ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:37:17+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:37:26+08:00"
+}
+[GIN] 2021/06/11 - 17:37:26 | 200 |   11.624333ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:38:46+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:38:50+08:00"
+}
+[GIN] 2021/06/11 - 17:38:50 | 200 |   18.997542ms |             ::1 | GET      "/user/queryUser/"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:38:53+08:00"
+}
+[GIN] 2021/06/11 - 17:38:53 | 200 |    2.511291ms |             ::1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:41:20+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:41:24+08:00"
+}
+[GIN] 2021/06/11 - 17:41:24 | 200 |     9.21075ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:42:52+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:42:57+08:00"
+}
+[GIN] 2021/06/11 - 17:42:57 | 200 |   10.216959ms |             ::1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-11T17:45:33+08:00"
+}
+[GIN] 2021/06/11 - 17:45:33 | 200 |     28.8735ms |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:52:26+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T17:56:49+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-11T17:59:33+08:00"
+}
+[GIN] 2021/06/11 - 17:59:33 | 200 |   24.936084ms |             ::1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T18:13:25+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T18:14:28+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-11T18:15:50+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser

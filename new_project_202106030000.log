@@ -1,0 +1,813 @@
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T10:16:31+08:00"
+}
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T10:20:15+08:00"
+}
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T10:30:42+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+time="2021-06-03T10:30:45+08:00" level=info msg="开始查询数据库a"
+[GIN] 2021/06/03 - 10:30:45 | 200 |    7.723333ms |       127.0.0.1 | GET      "/user/queryUser/"
+time="2021-06-03T10:31:34+08:00" level=info msg="开始查询数据库a"
+[GIN] 2021/06/03 - 10:31:34 | 200 |   14.156125ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T10:34:30+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2021/06/03 - 10:34:33 | 200 |    4.619875ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T10:40:10+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T10:40:13+08:00"
+}
+[GIN] 2021/06/03 - 10:40:13 | 200 |    5.243541ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:21:30+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:21:45 | 200 |   45.968584ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T11:22:00+08:00"
+}
+[GIN] 2021/06/03 - 11:22:00 | 200 |   42.318417ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:22:40+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:22:41 | 200 |    6.029291ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:23:15+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:23:16 | 200 |    9.554542ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:23:41+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:23:43 | 200 |    8.520875ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:23:55+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:23:56 | 200 |    3.673459ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:28:48+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:28:50 | 200 |    3.807667ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:29:04+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:29:04 | 200 |   10.896041ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:29:11+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:29:14 | 200 |    4.971584ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:29:25+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:33:46+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:33:46 | 200 |    2.222541ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:34:07+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:34:09 | 200 |   10.311334ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:34:19+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:34:20 | 200 |    4.654542ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:35:17+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:35:20 | 200 |   14.203375ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:35:42+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:35:45 | 200 |    5.503958ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:36:20+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:36:23 | 200 |   10.355833ms |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "请求参数不正确, 请检查请求参数",
+  "time": "2021-06-03T11:37:59+08:00"
+}
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 200
+[GIN] 2021/06/03 - 11:37:59 | 200 |   58.913667ms |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "请求参数不正确, 请检查请求参数",
+  "time": "2021-06-03T11:38:19+08:00"
+}
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 200
+[GIN] 2021/06/03 - 11:38:19 | 200 |   17.966875ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:39:05+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 11:39:09 | 200 |    8.129167ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T11:41:00+08:00"
+}
+[GIN] 2021/06/03 - 11:41:00 | 200 |   19.516041ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:42:14+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T11:42:18+08:00"
+}
+[GIN] 2021/06/03 - 11:42:18 | 200 |    2.088042ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:43:17+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T11:46:57+08:00"
+}
+[GIN] 2021/06/03 - 11:46:57 | 200 |   18.831084ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T11:47:25+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T11:47:27+08:00"
+}
+[GIN] 2021/06/03 - 11:47:27 | 200 |    3.039334ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T14:09:57+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T14:12:46+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T14:15:01+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 14:16:40 | 200 |   23.585958ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T14:16:49+08:00"
+}
+[GIN] 2021/06/03 - 14:16:49 | 200 |   23.078041ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T14:28:06+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T14:29:04+08:00"
+}
+[GIN] 2021/06/03 - 14:29:04 | 200 |   23.509333ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-03T14:29:07+08:00"
+}
+[GIN] 2021/06/03 - 14:29:07 | 200 |   15.460458ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T14:30:28+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-03T14:30:43+08:00"
+}
+[GIN] 2021/06/03 - 14:30:43 | 200 |   16.264167ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T14:36:25+08:00"
+}
+[GIN] 2021/06/03 - 14:36:25 | 200 |   57.156584ms |       127.0.0.1 | GET      "/user/queryUser/"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T14:58:54+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T15:00:43+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-03T15:11:39+08:00"
+}
+[GIN] 2021/06/03 - 15:11:39 | 200 |   45.497958ms |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 15:11:49 | 200 |   28.138375ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-03T15:11:54+08:00"
+}
+[GIN] 2021/06/03 - 15:11:54 | 200 |    1.563709ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/03 - 15:19:16 | 200 |   15.382958ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T15:27:35+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-03T15:27:53+08:00"
+}
+[GIN] 2021/06/03 - 15:27:53 | 200 |   42.800458ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T15:28:50+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:E11000 duplicate key error collection: test.t_user index: name_1 dup key: { name: \"shibo.dou\" }",
+  "time": "2021-06-03T15:28:55+08:00"
+}
+[GIN] 2021/06/03 - 15:28:55 | 200 |   12.230917ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T16:15:35+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/addUser             --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T16:16:41+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T16:18:33+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+[GIN] 2021/06/03 - 16:19:12 | 200 |   20.418416ms |       127.0.0.1 | PUT      "/user/updateUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T16:28:25+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+[GIN] 2021/06/03 - 16:28:33 | 200 |   14.289375ms |       127.0.0.1 | PUT      "/user/updateUser"
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+[GIN] 2021/06/03 - 16:29:03 | 200 |      28.947ms |       127.0.0.1 | PUT      "/user/updateUser"
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+[GIN] 2021/06/03 - 17:18:22 | 200 |   63.609292ms |       127.0.0.1 | PUT      "/user/updateUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T17:18:50+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-03T17:19:04+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080

@@ -1,0 +1,1030 @@
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T11:27:23+08:00"
+}
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:05:13+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:05:36+08:00"
+}
+[GIN] 2021/06/04 - 14:05:36 | 200 |   28.498084ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:07:18+08:00"
+}
+[GIN] 2021/06/04 - 14:07:18 | 200 |   14.322584ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:07:30+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:07:40+08:00"
+}
+[GIN] 2021/06/04 - 14:07:40 | 200 |   12.006917ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:07:43+08:00"
+}
+[GIN] 2021/06/04 - 14:07:43 | 200 |    1.670792ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:08:12+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:08:15+08:00"
+}
+[GIN] 2021/06/04 - 14:08:15 | 200 |    8.665834ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:09:00+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:09:02+08:00"
+}
+[GIN] 2021/06/04 - 14:09:02 | 200 |   13.709958ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:09:15+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:09:22+08:00"
+}
+[GIN] 2021/06/04 - 14:09:22 | 200 |    9.055875ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:09:47+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:09:50+08:00"
+}
+[GIN] 2021/06/04 - 14:09:50 | 200 |       8.607ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:10:21+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:10:27+08:00"
+}
+[GIN] 2021/06/04 - 14:10:27 | 200 |    9.944708ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:10:33+08:00"
+}
+[GIN] 2021/06/04 - 14:10:33 | 200 |    1.283917ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:12:51+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:13:13+08:00"
+}
+[GIN] 2021/06/04 - 14:13:13 | 200 |   19.789375ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:15:54+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+{
+  "file": "userController.go",
+  "func": "controllers.DeleteUser",
+  "level": "info",
+  "msg": "删除人员信息失败, 失败原因为:not found",
+  "time": "2021-06-04T14:15:58+08:00"
+}
+[GIN] 2021/06/04 - 14:15:58 | 200 |    8.955416ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:16:11+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+[GIN] 2021/06/04 - 14:16:15 | 200 |      8.3555ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+[GIN-debug] redirecting request 307: /user/deleteUser --> /user/deleteUser
+[GIN] 2021/06/04 - 14:16:20 | 200 |    4.264167ms |       127.0.0.1 | DELETE   "/user/deleteUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:26:36+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:26:43+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T14:26:55+08:00"
+}
+[GIN] 2021/06/04 - 14:26:55 | 200 |    7.930458ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:27:25+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T14:27:29+08:00"
+}
+[GIN] 2021/06/04 - 14:27:29 | 200 |     6.14725ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:27:54+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T14:28:05+08:00"
+}
+[GIN] 2021/06/04 - 14:28:05 | 200 |   14.590375ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:28:37+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T14:28:39+08:00"
+}
+[GIN] 2021/06/04 - 14:28:39 | 200 |    3.188958ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:29:56+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T14:29:59+08:00"
+}
+[GIN] 2021/06/04 - 14:29:59 | 200 |    8.905042ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:30:36+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 14:30:53 | 500 |   13.289041ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:33:53+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T14:45:49+08:00"
+}
+[GIN] 2021/06/04 - 14:45:49 | 200 |      28.443ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:48:16+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "请求参数不正确, 请检查请求参数",
+  "time": "2021-06-04T14:48:19+08:00"
+}
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:ObjectIDs must be exactly 12 bytes long (got 0)",
+  "time": "2021-06-04T14:48:19+08:00"
+}
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 200
+[GIN] 2021/06/04 - 14:48:19 | 200 |   13.215833ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:50:29+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 14:50:33 | 400 |      107.25µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:51:22+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "请求参数不正确, 请检查请求参数",
+  "time": "2021-06-04T14:51:26+08:00"
+}
+[GIN] 2021/06/04 - 14:51:26 | 400 |     371.917µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:52:56+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T14:53:21+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "请求参数不正确, 请检查请求参数",
+  "time": "2021-06-04T14:53:29+08:00"
+}
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 200
+[GIN] 2021/06/04 - 14:53:29 | 200 |      475.25µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:18:25+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:18:46 | 200 |     237.208µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:19:45+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "error",
+  "msg": "请求参数不正确, 请检查请求参数",
+  "time": "2021-06-04T15:19:48+08:00"
+}
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 200
+[GIN] 2021/06/04 - 15:19:48 | 200 |    1.510208ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:25:44+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:25:47 | 200 |     346.916µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:29:34+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:29:41 | 200 |     686.958µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:32:20+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T15:32:34+08:00"
+}
+[GIN] 2021/06/04 - 15:32:34 | 200 |    7.009125ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:35:26+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:35:28 | 504 |     147.125µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:53:54+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:53:57 | 400 |    1.779125ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T15:54:42+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:54:42 | 400 |      71.084µs |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 15:57:09 | 400 |     101.291µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T16:00:28+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T16:00:58+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/04 - 16:01:04 | 400 |     199.792µs |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 500
+[GIN] 2021/06/04 - 16:01:15 | 500 |     235.167µs |       127.0.0.1 | POST     "/user/addUser"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] [WARNING] Headers were already written. Wanted to override status code 400 with 500
+[GIN] 2021/06/04 - 17:56:13 | 500 |     874.666µs |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T17:56:41+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T17:57:45+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T17:57:48+08:00"
+}
+[GIN] 2021/06/04 - 17:57:48 | 200 |    6.215791ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T17:58:10+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+{
+  "file": "userController.go",
+  "func": "controllers.AddUser",
+  "level": "info",
+  "msg": "创建人员失败, 失败原因为:该用户已存在",
+  "time": "2021-06-04T17:58:15+08:00"
+}
+[GIN] 2021/06/04 - 17:58:15 | 200 |     5.62775ms |       127.0.0.1 | POST     "/user/addUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-04T18:28:12+08:00"
+}
+[GIN] 2021/06/04 - 18:28:12 | 200 |   36.213041ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+{
+  "file": "userController.go",
+  "func": "controllers.UpdateUser",
+  "level": "info",
+  "msg": "更新人员信息失败, 失败原因为:ObjectIDs must be exactly 12 bytes long (got 0)",
+  "time": "2021-06-04T18:28:25+08:00"
+}
+[GIN] 2021/06/04 - 18:28:25 | 200 |    3.563375ms |       127.0.0.1 | PUT      "/user/updateUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T18:29:18+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+{
+  "file": "userController.go",
+  "func": "controllers.UpdateUser",
+  "level": "info",
+  "msg": "更新人员信息失败, 失败原因为:ObjectIDs must be exactly 12 bytes long (got 0)",
+  "time": "2021-06-04T18:29:22+08:00"
+}
+[GIN] 2021/06/04 - 18:29:22 | 200 |    8.072667ms |       127.0.0.1 | PUT      "/user/updateUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T18:31:07+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+{
+  "file": "userController.go",
+  "func": "controllers.UpdateUser",
+  "level": "info",
+  "msg": "更新人员信息失败, 失败原因为:ObjectIDs must be exactly 12 bytes long (got 0)",
+  "time": "2021-06-04T18:31:09+08:00"
+}
+[GIN] 2021/06/04 - 18:31:09 | 200 |       9.492ms |       127.0.0.1 | PUT      "/user/updateUser"
+{
+  "file": "logInit.go",
+  "func": "log.initLogDetails",
+  "level": "info",
+  "msg": "log init success",
+  "time": "2021-06-04T18:33:08+08:00"
+}
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN-debug] redirecting request 307: /user/updateUser --> /user/updateUser
+[GIN] 2021/06/04 - 18:33:15 | 200 |     9.11975ms |       127.0.0.1 | PUT      "/user/updateUser"
+{
+  "file": "t_user.go",
+  "func": "models.QueryUser",
+  "level": "info",
+  "msg": "开始查询数据库a",
+  "time": "2021-06-04T18:33:19+08:00"
+}
+[GIN] 2021/06/04 - 18:33:19 | 200 |    1.162459ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (3 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (3 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (3 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
