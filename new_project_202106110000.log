@@ -1335,3 +1335,51 @@
 [GIN-debug] Listening and serving HTTP on :8080
 [GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
 [GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /user/queryUser/*name     --> _/Users/user/Desktop/newProject/controllers.QueryUser (5 handlers)
+[GIN-debug] POST   /user/addUser             --> _/Users/user/Desktop/newProject/controllers.AddUser (5 handlers)
+[GIN-debug] PUT    /user/updateUser          --> _/Users/user/Desktop/newProject/controllers.UpdateUser (5 handlers)
+[GIN-debug] DELETE /user/deleteUser          --> _/Users/user/Desktop/newProject/controllers.DeleteUser (5 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2021/06/15 - 10:38:41 | 200 |  132.718958ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:40:10 | 200 |      39.395ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:45:50 | 200 |   40.680625ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:47:00 | 200 |   27.921625ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:47:07 | 200 |   13.269375ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:49:03 | 200 |   15.119792ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:50:52 | 200 |   28.158083ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:51:08 | 200 |   13.122292ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:51:18 | 200 |       1.962ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:51:30 | 200 |   15.225917ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 10:52:11 | 200 |   13.489166ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:03:58 | 200 |   59.358959ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:10:47 | 200 |    17.86175ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:10:51 | 200 |    1.375375ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:10:59 | 200 |   13.312709ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:11:23 | 200 |   13.312708ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:11:31 | 200 |    1.275834ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:11:47 | 200 |   12.273125ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:11:50 | 200 |    3.009208ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:13:10 | 200 |   12.972958ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:19:11 | 200 |   34.976542ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:19:35 | 200 |   29.723917ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:33:31 | 200 |    15.54625ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:35:35 | 200 |   38.427542ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:36:03 | 200 |   13.668417ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 11:42:52 | 200 |     13.3615ms |             ::1 | GET      "/user/queryUser/"
+[GIN] 2021/06/15 - 14:06:29 | 200 |  201.701792ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/15 - 14:08:12 | 204 |    2.191375ms |       127.0.0.1 | OPTIONS  "/user/addUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/15 - 14:09:52 | 200 |   14.036541ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/15 - 14:12:09 | 200 |   34.152167ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser
+[GIN] 2021/06/15 - 14:14:55 | 200 |  172.788625ms |       127.0.0.1 | GET      "/user/queryUser/"
+[GIN-debug] redirecting request 307: /user/addUser --> /user/addUser

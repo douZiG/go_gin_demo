@@ -45,7 +45,7 @@ func init() {
 
 func indexInit() {
 	index1 := mgo.Index{
-		Key:        []string{"id"},
+		Key:        []string{"_id"},
 		Unique:     true,
 		DropDups:   true,
 		Sparse:     true,

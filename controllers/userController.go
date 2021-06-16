@@ -31,6 +31,8 @@ func QueryUser(c *gin.Context) {
 }
 
 func AddUser(c *gin.Context) {
+	fmt.Println("origin:", c.Request.Header.Get("Origin"))
+
 	requestData := make(map[string]interface{}) //注意该结构接受的内容
 	jsonErr := c.BindJSON(&requestData)
 	if jsonErr != nil {

@@ -37,6 +37,7 @@ func QueryUser(database *mgo.Database) ([]User, error) {
 func AddUser(database *mgo.Database, user User) (bool, string) {
 	// 判断用户是否存在
 	var userList []User
+	fmt.Println(user)
 	finErr := database.C("t_user").Find(bson.M{"name": user.Name}).All(&userList)
 	if finErr != nil {
 		logs.Error("查询数据库失败, 失败信息为： ", finErr)
@@ -46,6 +47,7 @@ func AddUser(database *mgo.Database, user User) (bool, string) {
 		client := database.C("t_user")
 		// 插入数据
 		fmt.Println(user)
+		user.Id = bson.NewObjectId()
 		insertErr := client.Insert(&user)
 		if insertErr != nil {
 			return false, insertErr.Error()
@@ -67,6 +69,7 @@ func AddUser(database *mgo.Database, user User) (bool, string) {
 func UpdateUser(database *mgo.Database, data User) (bool, string) {
 	// 判断用户是否存在
 	var userList []User
+	fmt.Println(data)
 	finErr := database.C("t_user").Find(bson.M{"name": data.Name}).All(&userList)
 	if finErr != nil {
 		logs.Error("查询数据库失败, 失败信息为： ", finErr)
@@ -78,9 +81,10 @@ func UpdateUser(database *mgo.Database, data User) (bool, string) {
 		fmt.Println(userList)
 		client := database.C("t_user")
 		for _, user := range userList {
-			fmt.Println(data)
+			fmt.Println(data.Id)
 			data.Id = user.Id
-			updateErr := client.Update(bson.M{"name": user.Name}, bson.M{"$set": &data})
+			fmt.Println(data.Id)
+			updateErr := client.Update(bson.M{"_id": user.Id}, bson.M{"$set": &data})
 			if updateErr != nil {
 				return false, updateErr.Error()
 			}
@@ -91,7 +95,7 @@ func UpdateUser(database *mgo.Database, data User) (bool, string) {
 
 func DeleteUser(database *mgo.Database, data User) (bool, string) {
 	var userList []User
-	finErr := database.C("t_user").Find(bson.M{"name": data.Name}).All(&userList)
+	finErr := database.C("t_user").Find(bson.M{"_id": data.Id}).All(&userList)
 	if finErr != nil {
 		logs.Error("查询数据库失败, 失败信息为： ", finErr)
 		return false, finErr.Error()
