@@ -1,11 +1,11 @@
 package controllers
 
 import (
-	"../log"
-	"../models"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/goinggo/mapstructure"
+	"newProject/log"
+	"newProject/models"
 	"reflect"
 )
 

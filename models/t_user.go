@@ -1,11 +1,10 @@
 package models
 
 import (
-	"../log"
 	"fmt"
-
-	//log "github.com/sirupsen/logrus"
 	"gopkg.in/mgo.v2"
+	"newProject/log"
+
 	"gopkg.in/mgo.v2/bson"
 	"time"
 )

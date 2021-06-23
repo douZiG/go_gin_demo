@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./log"
-	"./routers"
 	"fmt"
+	"newProject/log"
+	"newProject/routers"
 )
 
 func init() {

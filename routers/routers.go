@@ -1,9 +1,9 @@
 package routers
 
 import (
-	"../controllers"
-	"./Cors"
 	"github.com/gin-gonic/gin"
+	"newProject/controllers"
+	"newProject/routers/Cors"
 )
 
 func ConfigRouters() *gin.Engine {
